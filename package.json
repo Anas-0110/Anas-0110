@@ -1,0 +1,17 @@
+{
+  "name": "anas-0110",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @Anas\r - 👀 I’m interested in coding and learning\r - 🌱 I’m currently learning computer engineering\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...\r - 😄 Pronouns: ...\r - ⚡ Fun fact: ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
