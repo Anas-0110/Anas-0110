@@ -59,4 +59,4 @@ jobs:
           app-name: 'AnasCoding'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8160F4020D7F4D9D9B768840642DC469 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83C6BB4CFFF541B6B6AF3E63DC0A4490 }}
